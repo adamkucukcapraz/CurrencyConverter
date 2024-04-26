@@ -1,0 +1,1 @@
+This Currency Converter Application will allow users to select two currencies and enter an amount for conversion. The application will fetch the latest exchange rates from a reliable online source and perform the conversion calculations accordingly.
